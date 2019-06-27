@@ -1,7 +1,14 @@
+<p><em>flag{bellow}</em></p>
+フラグがリンク内にある
 <!DOCTYPE html>
 <html>
 <head>
-<head>
+<style>
+a{
+color: #ffff00;	
+}
+	
+</style>
 <meta charset="utf-8">
 <title>Caleb Cool Website</title>
 <link href="main.css" rel="stylesheet" type="text/css">
@@ -12,7 +19,7 @@
 <body>
 <nav>
 	<ul>
- 	 <li><a href="https://github.com/Pixel-Game-100/">Github</a></li>
+ 	 <li><a href="https://github.com/Pixel-Game-100/Pixel-Game_100.io/">Github</a></li>
 		</ul>
 	</nav>
 <var href="home">
@@ -29,7 +36,7 @@
         width: 120em;
         margin: 0 auto;
         font-family: Tahoma, Verdana, Arial, sans-serif;
- 	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf9jyXwHL224AqlPfxnXQtxbHPYWACz4nM5JVJVoBGJEE0DNAD:https://bnetproduct-a.akamaihd.net//f8c/870ce30f468bcb7c179168fbdcd4dba0-overwatch-1200x656.png');
+ 	background-image: url('http://10.183.1.25/caleb2.png');
 	/*background-size: cover;*/
 	 background-size: cover;
 	background-repeat: yes-repeat;
@@ -83,5 +90,63 @@ buisness please use my email above.
 
       }, speed);
     </script>
-</body>
+<p><em> _</em></p>
+<p><em> _</em></p>
+<p><em> _</em></p>	
+<p><em> _</em></p>
+<p><em> _</em></p>	
+<p><em> _</em></p>
+<p><em> _</em></p>
+<p><em> _</em></p>	
+<p><em> _</em></p>
+<p><em> _</em></p>		
+<p><em> _</em></p>
+<p><em> _</em></p>	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+<p><em>HomeHomeHome</em></p>	
+	
+<body>
 </html>
